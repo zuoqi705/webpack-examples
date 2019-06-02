@@ -19,20 +19,7 @@ npm run build
 - webpack 会默认带上 `--config webpack.config.js`
 - package.json 中的 script 会自动定位到 `.\node_modules\.bin\` 目录下
 
-## 解析 ES6
+### Docs
 
-```bash
-cnpm i @babel/core @babel/preset-env babel-loader -D
-```
-
-## 解析 JSX
-
-```bash
-cnpm i @babel/preset-react -D
-```
-
-## 构建前清理 dist 文件夹
-
-```bash
-cnpm i clean-webpack-plugin -D
-```
+基础篇（三）：https://www.yuque.com/mavericker/webpack/pxle1v
+基础篇（四）：https://www.yuque.com/mavericker/webpack/lyfh7i
