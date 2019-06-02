@@ -21,5 +21,5 @@ npm run build
 
 ### Docs
 
-基础篇（三）：https://www.yuque.com/mavericker/webpack/pxle1v
-基础篇（四）：https://www.yuque.com/mavericker/webpack/lyfh7i
+- 基础篇（三）：https://www.yuque.com/mavericker/webpack/pxle1v
+- 基础篇（四）：https://www.yuque.com/mavericker/webpack/lyfh7i
