@@ -12,7 +12,7 @@ class Search extends React.Component {
       <div className="cnm">
         <h2 className="h1"> {Math.random() + 2}</h2>
         <h2 className="h1"> {Math.random()}</h2>
-        <h2 className="h1"> cnxsssw</h2>
+        <h2 className="h1"> test commitizen</h2>
         {/* <img src={test2} /> */}
       </div>
     );
